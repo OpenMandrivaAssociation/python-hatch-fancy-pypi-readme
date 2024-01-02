@@ -1,5 +1,5 @@
 Name:		python-hatch-fancy-pypi-readme
-Version:	23.1.0
+Version:	24.1.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/h/hatch-fancy-pypi-readme/hatch_fancy_pypi_readme-%{version}.tar.gz
 Summary:	Fancy PyPI READMEs with Hatch
